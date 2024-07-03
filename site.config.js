@@ -6,9 +6,9 @@ const CONFIG = {
     role: "data engineer",
     bio: "If others feel comfortable because of me...",
     email: "kyg8821@naver.com",
-    // linkedin: "morethanmin",
+    linkedin: "",
     github: "zjacom",
-    // instagram: "",
+    instagram: "",
   },
   projects: [
     {
